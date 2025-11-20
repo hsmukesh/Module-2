@@ -14,19 +14,18 @@ To write a Python program to compute the power of a given number using an approp
 6. Terminate the program.
 
 ### PROGRAM
-```
-Reg.No: 212222060155
-Nmae: Mukesh HS
 
-def result(a, b, c):
-    mul =a*b*c
-    print("Multiply is",mul)   
+```
+#Reg.No: 212222060155
+#Name: Mukesh HS
+
 a=int(input())
 b=int(input())
-c=int(input())
+power=lambda a,b:pow(a,b)
+print("Power of the given number is:",power(a,b))
 ```
 ### OUTPUT
-<img width="1047" height="467" alt="image" src="https://github.com/user-attachments/assets/928f7167-162c-4ace-9f2f-d3eb2d903caf" />
+<img width="866" height="318" alt="image" src="https://github.com/user-attachments/assets/3b9fbc54-a324-4c2f-9b29-2b1a877fcf79" />
 
 ### RESULT
-Thus a Python program to compute the multiplication of a given number using function was executed and implemented successfully.
+Thus a Python program to compute the power of a given number using an appropriate built-in function was executed and implemented successfully.
