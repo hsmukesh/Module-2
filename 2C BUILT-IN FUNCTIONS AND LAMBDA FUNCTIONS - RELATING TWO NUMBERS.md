@@ -18,8 +18,8 @@ To write a Python program to check the relation between two numbers — whether 
 ### PROGRAM
 
 ```
-#Reg.No: 212222060155
-#Name: Mukesh HS
+Reg.No: 212222060155
+Name: Mukesh HS
 
 num1 = int(input())
 num2 = int(input())
