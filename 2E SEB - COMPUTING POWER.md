@@ -1,12 +1,8 @@
 # Exp.No:2e  
 ## SEB - COMPUTING POWER
 
----
-
 ### AIM  
 To write a Python program to compute the power of a given number using an appropriate built-in function.
-
----
 
 ### ALGORITHM
 
@@ -17,12 +13,20 @@ To write a Python program to compute the power of a given number using an approp
 5. Print the result using the `print()` function, displaying the power in a formatted output.  
 6. Terminate the program.
 
----
-
 ### PROGRAM
-
 ```
+Reg.No: 212222060155
+Nmae: Mukesh HS
+
+def result(a, b, c):
+    mul =a*b*c
+    print("Multiply is",mul)   
+a=int(input())
+b=int(input())
+c=int(input())
 ```
 ### OUTPUT
+<img width="1047" height="467" alt="image" src="https://github.com/user-attachments/assets/928f7167-162c-4ace-9f2f-d3eb2d903caf" />
 
 ### RESULT
+Thus a Python program to compute the multiplication of a given number using function was executed and implemented successfully.
